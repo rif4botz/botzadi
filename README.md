@@ -1,0 +1,2 @@
+# botzadi
+INI BOT YA
